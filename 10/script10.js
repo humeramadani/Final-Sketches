@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage("assets/gpulse.jpeg");
+  img = loadImage("assets/vpulse.jpeg");
 }
 
 function setup() {
