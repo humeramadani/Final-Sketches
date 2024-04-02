@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage("assets/GG.jpeg");
+  img = loadImage("assets/v.jpg");
 }
 
 function setup() {
